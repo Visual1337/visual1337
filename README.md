@@ -39,4 +39,3 @@ About me.</h2>
         <img title="visual development" alt="visuals streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hk-development&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/Visual1337"><img alt="visuals Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hk-development&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
