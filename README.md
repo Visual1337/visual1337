@@ -9,13 +9,13 @@ About me.</h2>
 
 - 🎓 self learned developer :)
 
-- 🔗 join my dc https://discord.gg/fruityskills
+- 🔗 join my dc https://discord.gg/
 
 - 🌐 Website not out at the moment
 
   <p align="center">
     <a href="https://discord.com/users/980263440138502144">
-        <img title="visual" alt="visual" src="https://discord.c99.nl/widget/theme-1/980263440138502144.png"/>
+        <img title="visual" alt="visual" src="https://discord.c99.nl/widget/theme-1/1108789278361784331.png"/>
     </a>
 </p>
 
