@@ -9,7 +9,7 @@ About me.</h2>
 
 - 🎓 self learned developer :)
 
-- 🔗 join my dc https://discord.gg/
+- 🔗 join my dc https://discord.gg/novacane
 
 - 🌐 Website not out at the moment
 
