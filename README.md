@@ -15,7 +15,7 @@ About me.</h2>
 
   <p align="center">
     <a href="https://discord.com/users/980263440138502144">
-        <img title="visual" alt="visual" src="https://discord.c99.nl/widget/theme-1/1108789278361784331.png"/>
+        <img title="visual" alt="visual" src="https://discord.c99.nl/widget/theme-1/1133602240272277544.png"/>
     </a>
 </p>
 
